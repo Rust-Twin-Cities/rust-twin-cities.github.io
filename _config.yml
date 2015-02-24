@@ -1,0 +1,13 @@
+# Site settings
+title: Rust Twin Cities
+description: > 
+    We are a community run Meetup focused on the Rust programming language. 
+    We are a group of hobbyists and professionals interested in learning 
+    and sharing about Rust.    
+baseurl: "" 
+url: "https://rust-twin-cities.github.io" 
+twitter_username: RustTwinCities
+github_username:  Rust-Twin-Cities
+
+# Build settings
+markdown: kramdown
